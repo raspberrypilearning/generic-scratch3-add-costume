@@ -1,10 +1,10 @@
 ---
-title: Adding new costumes in Scratch
+title: Scratch मध्ये नवीन पोशाख जोडणे
 hero_image: images/banner.png
-description: Add costumes to your sprite
+description: आपल्या स्प्राईटला पोशाख घाला
 original_url:
-theme: red
-duration: 1
+theme: लाल
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
@@ -14,5 +14,5 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Add costumes
+    title: पोशाख घाला
 
