@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- आपल्या स्प्राइटला निवडून, पोषाख टॅबवर क्लिक करा
     
     ![costumes tab](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the four options From bottom to top they are:
+- क्लिक करा **एक वेशभूषा निवडा** आणि ते खालून वरच्या दिशेला चार पर्यायांपैकी एक निवडा:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. लायब्ररीतून पोशाख निवडा
+    2. नवीन पोशाख रंगवा
+    3. एक यादृच्छिक (आश्चर्यजनक) पोशाख वापरा
+    4. फाइल वरून पोशाख अपलोड करा
+    5. कॅमेरा पासून नवीन पोशाख
     
     ![choose location](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- जर आपण पोशाख हटवू इच्छित असाल तर त्याला निवडा आणि वरच्या उजव्या कोपऱ्यात असलेल्या लहान क्रॉसवर क्लिक करा.
     
     ![delete costume](images/delete_costume.png)
