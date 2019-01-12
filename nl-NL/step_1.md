@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Selecteer je sprite en klik op het tabblad Uiterlijken
     
-    ![costumes tab](images/costumes_tab.png)
+    ![uiterlijken tabblad](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the four options From bottom to top they are:
+- Klik op **Kies een uiterlijk** en kies een van de vier opties. Van onder naar boven zijn deze:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Kies een uiterlijk de bibliotheek
+    2. Tekenen
+    3. Gebruik een verrassing
+    4. Upload uiterlijk uit bestand
+    5. Nieuw uiterlijk van de camera
     
-    ![choose location](images/choose_location.png)
+    ![kies locatie](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Als je het geïmporteerde uiterlijk wilt verwijderen, selecteer je het en klik je op het kleine kruisje in de rechterbovenhoek.
     
-    ![delete costume](images/delete_costume.png)
+    ![verwijder uiterlijk](images/delete_costume.png)
