@@ -1,9 +1,9 @@
 ---
-title: Adding new costumes in Scratch
+title: Nieuwe uiterlijken toevoegen in Scratch
 hero_image: images/banner.png
-description: Add costumes to your sprite
+description: Uiterlijken aan je sprite toevoegen
 original_url:
-theme: red
+theme: rood
 duration: 1
 listed: false
 ingredient: true
@@ -14,5 +14,5 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Add costumes
+    title: Uiterlijken toevoegen
 
