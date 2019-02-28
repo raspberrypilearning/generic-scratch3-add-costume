@@ -2,7 +2,7 @@
 
 	![costumes tab](images/costumes_tab.png)
 	
-- Click __Choose a Costume__ and choose one of the four options From bottom to top they are:
+- Click __Choose a Costume__ and choose one of the five options From bottom to top they are:
   1. Choose costume from library
   1. Paint new costume
   1. Use a random (surprise) costume
