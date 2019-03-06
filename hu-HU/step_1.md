@@ -2,7 +2,7 @@
     
     ![costumes tab](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the four options From bottom to top they are:
+- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
     
     1. Choose costume from library
     2. Paint new costume
