@@ -1,7 +1,7 @@
 ---
-title: Adding new costumes in Scratch
+title: Scratch'te yeni kostümler ekleme
 hero_image: images/banner.png
-description: Add costumes to your sprite
+description: Kuklanıza kostüm ekleyin
 original_url:
 theme: red
 duration: 1
@@ -14,5 +14,5 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Add costumes
+    title: Kostüm ekle
 
