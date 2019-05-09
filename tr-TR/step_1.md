@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Kuklanız seçiliyken Kostümler sekmesine tıklayın
     
-    ![costumes tab](images/costumes_tab.png)
+    ![kostümler sekmesi](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- **Bir Kostüm Seç** 'i tıklayın ve aşağıdan yukarıya şu şekilde sıralı beş seçenekten birini seçin:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Bir Kostüm Seç -- Kütüphaneden kostüm seçin
+    2. Çizim -- Yeni bir kostüm boyayın
+    3. Sürpriz -- Rastgele bir kostüm kullanın
+    4. Kostüm Yükle -- Dosyadan kostüm yükleyin
+    5. Kamera -- Kameradan yeni kostüm
     
-    ![choose location](images/choose_location.png)
+    ![konum seç](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Eklediğiniz kostümü silmek istiyorsanız, onu seçin ve sağ üst köşesindeki küçük çarpı işaretini tıklayın.
     
-    ![delete costume](images/delete_costume.png)
+    ![kostümü sil](images/delete_costume.png)
