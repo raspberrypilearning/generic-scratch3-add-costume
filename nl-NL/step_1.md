@@ -4,7 +4,7 @@
 
 - Klik op **Kies een uiterlijk** en kies een van de vijf opties. Van onder naar boven zijn deze:
     
-    1. Kies een uiterlijk de bibliotheek
+    1. Kies een uiterlijk uit de bibliotheek
     2. Tekenen
     3. Gebruik een verrassing
     4. Upload uiterlijk uit bestand
