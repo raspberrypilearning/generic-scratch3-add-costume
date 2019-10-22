@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- ඔබේ sprite එක තෝරාගත් පසු, ඇඟලුම් පටිත්ත(costume tab) ක්ලික් කරන්න
     
-    ![costumes tab](images/costumes_tab.png)
+    ![ඇඳුම් පටිත්ත(costume tab)](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- ** ඇඳුමක් තෝරන්න(Choose a Costume) ** ක්ලික් කර තේරීම් පහෙන් එකක් තෝරන්න, පහළ සිට ඉහළට ඒවා පහත දක්වා අත :
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. පුස්තකාලයෙන් ඇඳුම්(costume) තෝරන්න
+    2. නව ඇඳුමක්(costume) පින්තාරු කරන්න
+    3. අහඹු (පුදුම) ඇඳුමක්(costume) භාවිතා කරන්න
+    4. ගොනුවක් මගින් ඇඳුමක්(costume) උඩුගත(upload) කරන්න
+    5. කැමරාවෙන් නව ඇඳුමක්(costume)
     
-    ![choose location](images/choose_location.png)
+    ![ස්ථානය තෝරන්න](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- ආනයනික ඇඳුම(costume) මකා දැමීමට ඔබට අවශ්‍ය නම්, එය තෝරාගෙන ඉහළ දකුණු කෙළවරේ ඇති කුඩා කතිරය මත ක්ලික් කරන්න.
     
-    ![delete costume](images/delete_costume.png)
+    ![ඇඳුම(costume) මකන්න](images/delete_costume.png)
