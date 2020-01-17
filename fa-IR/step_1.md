@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- بعد از انتخاب شکلک خود، بر روی زبانه حالت‌ها کلیک کنید
     
-    ![costumes tab](images/costumes_tab.png)
+    ![زبانه حالت‌ها](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- بر روی **یک حالت را انتخاب کنید** کلیک کنید و یکی از پنج گزینه را انتخاب نمایید. گزینه‌ها از پایین به بالا عبارتند از:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. از کتابخانه حالت را انتخاب کنید
+    2. حالت جدید نقاشی کنید
+    3. از یک حالت تصادفی (غافلگیرانه) استفاده کنید
+    4. بارگذاری حالت از فایل
+    5. حالت جدید از دوربین
     
-    ![choose location](images/choose_location.png)
+    ![انتخاب موقعیت مکانی](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- اگر می‌خواهید حالت وارد شده را حذف کنید، آن را انتخاب کنید و روی ضربدر کوچک در گوشه‌ی بالا سمت راست کلیک کنید.
     
-    ![delete costume](images/delete_costume.png)
+    ![حذف حالت](images/delete_costume.png)
