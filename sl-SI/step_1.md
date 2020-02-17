@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Ko je izbrana figura, klikni na zavihek Videzi
     
-    ![costumes tab](images/costumes_tab.png)
+    ![zavihek Videzi](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Klikni na **Izberi videz** in izberi katero izmed petih možnosti. Od spodaj navzgor si sledijo kot:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Izberi videz iz knjižnice
+    2. Nariši nov videz
+    3. Uporabi naključni videz (presenečenje)
+    4. Naloži videz iz datoteke
+    5. Ustvari nov videz s pomočjo kamere
     
-    ![choose location](images/choose_location.png)
+    ![izberi lokacijo](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Če želiš izbrisati uvoženi videz, ga izberi in klikni na majhen križec v zgornjem desnem kotu.
     
-    ![delete costume](images/delete_costume.png)
+    ![izbriši videz](images/delete_costume.png)
