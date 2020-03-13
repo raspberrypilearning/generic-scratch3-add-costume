@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Cu personajul selectat, dă click pe tab-ul Costume
     
-    ![costumes tab](images/costumes_tab.png)
+    ![tab-ul costume](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Dă click pe **Alege un Costum** și alege una dintre cele cinci opțiuni. De jos în sus, aceste sunt:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Alege un costum din librărie
+    2. Desenează un costum nou
+    3. Folosește un costum la întâmplare (surpriză)
+    4. Încarcă un costum dintr-un fișier
+    5. Costum nou de la cameră
     
-    ![choose location](images/choose_location.png)
+    ![alege locația](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Dacă vrei să ștergi costumul importat, selectează-l și dă click pe crucea mică din colțul din dreapta sus.
     
-    ![delete costume](images/delete_costume.png)
+    ![șterge costumul](images/delete_costume.png)
