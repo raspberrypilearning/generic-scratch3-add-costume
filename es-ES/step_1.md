@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Con tu objeto seleccionado, haz clic en la pestaña Disfraces
     
     ![costumes tab](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Haz clic en **Elige un disfraz** y elige una de las cinco opciones que de abajo a arriba son:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Elige un disfraz de la biblioteca
+    2. Pinta un disfraz nuevo
+    3. Usa un disfraz aleatorio (sorpresa)
+    4. Añadir disfraz desde archivo
+    5. Nuevo disfraz desde la cámara
     
     ![choose location](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Si deseas eliminar el disfraz importado, selecciónalo y haz clic en la pequeña cruz que hay en la esquina superior derecha.
     
     ![delete costume](images/delete_costume.png)
