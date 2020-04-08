@@ -1,9 +1,9 @@
 ---
-title: Adding new costumes in Scratch
+title: Aggiungere nuovi costumi in Scratch
 hero_image: images/banner.png
-description: Add costumes to your sprite
+description: Aggiungi costumi al tuo sprite
 original_url:
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: rosso #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -14,5 +14,5 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Add costumes
+    title: Aggiungi costumi
 
