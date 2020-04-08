@@ -1,0 +1,17 @@
+- Con tu objeto seleccionado, haz clic en la pestaña Disfraces
+    
+    ![costumes tab](images/costumes_tab.png)
+
+- Haz clic en **Elige un disfraz** y elige una de las cinco opciones que de abajo a arriba son:
+    
+    1. Elige un disfraz de la biblioteca
+    2. Pinta un disfraz nuevo
+    3. Usa un disfraz aleatorio (sorpresa)
+    4. Añadir disfraz desde archivo
+    5. Nuevo disfraz desde la cámara
+    
+    ![choose location](images/choose_location.png)
+
+- Si deseas eliminar el disfraz importado, selecciónalo y haz clic en la pequeña cruz que hay en la esquina superior derecha.
+    
+    ![delete costume](images/delete_costume.png)
