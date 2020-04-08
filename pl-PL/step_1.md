@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Po wybraniu duszka, kliknij zakładkę Kostiumy
     
-    ![costumes tab](images/costumes_tab.png)
+    ![zakładka kostiumy](images/costumes_tab.png)
 
 - Kliknij **Wybierz kostium** i wybierz jedną z pięciu opcji. Idąc od dołu do góry są to odpowiednio:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Wybierz kostium z biblioteki
+    2. Namaluj nowy kostium
+    3. Użyj losowego (niespodzianka) kostiumu
+    4. Wczytaj kostium z pliku
+    5. Nowy obraz z aparatu
     
-    ![choose location](images/choose_location.png)
+    ![wybierz położenie](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Jeśli chcesz usunąć zaimportowany kostium, wybierz go i kliknij mały krzyżyk w prawym górnym rogu.
     
-    ![delete costume](images/delete_costume.png)
+    ![usuń kostium](images/delete_costume.png)
