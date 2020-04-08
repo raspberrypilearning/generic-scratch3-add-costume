@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Con il tuo sprite selezionato, clicca sulla scheda Costumi
     
-    ![costumes tab](images/costumes_tab.png)
+    ![scheda costumi](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Clicca su **Scegli un Costume** e scegli una delle cinque opzioni dal basso verso l'alto che sono:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Scegli un costume dalla libreria
+    2. Disegna un nuovo costume
+    3. Scegli un costume a Sorpresa
+    4. Importa Costume
+    5. Webcam
     
-    ![choose location](images/choose_location.png)
+    ![scegli la posizione](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Se desideri eliminare il costume importato, selezionalo e clicca sulla piccola croce in alto a destra.
     
-    ![delete costume](images/delete_costume.png)
+    ![elimina costume](images/delete_costume.png)
