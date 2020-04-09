@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Com o teu ator selecionado, clique na aba trajes
     
-    ![costumes tab](images/costumes_tab.png)
+    ![aba dos trajes](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Clica em **Escolher um traje** e escolhe uma das cinco opções De baixo para cima, elas são:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Escolher um traje da biblioteca
+    2. Pintar novo traje
+    3. Usar um traje aleatório (surpresa)
+    4. Carregar traje a partir de um ficheiro
+    5. Novo traje a partir da câmara
     
-    ![choose location](images/choose_location.png)
+    ![escolher localização](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Se desejares excluir o traje importado, seleciona-o e clica na pequena cruz no canto superior direito.
     
-    ![delete costume](images/delete_costume.png)
+    ![eliminar traje](images/delete_costume.png)
