@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- スプライトを選択 (せんたく) して、コスチュームタブをクリックします
     
-    ![costumes tab](images/costumes_tab.png)
+    ![コスチュームタブ](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- **コスチュームを選ぶ** (えらぶ) をクリックし、5つのオプションのいずれかを選択します。下から上にこのようにならんでいます。
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. コスチュームを選ぶ - コスチュームをライブラリから選択
+    2. 描く(かく) - 新しいコスチュームを描く
+    3. サプライズ - Scratchが選んだ（サプライズ）コスチュームを使う
+    4. コスチュームをアップロード - ファイルからコスチュームをアップロードする
+    5. カメラ - カメラで新しいコスチュームをさつえいする
     
-    ![choose location](images/choose_location.png)
+    ![選択画面](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- 取りこんだコスチュームを削除 (さくじょ) したい場合は、コスチュームを選択し、右上の小さな×をクリックします。
     
-    ![delete costume](images/delete_costume.png)
+    ![コスチュームを削除](images/delete_costume.png)
