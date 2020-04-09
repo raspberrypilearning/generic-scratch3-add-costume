@@ -6,12 +6,12 @@
     
     1. Επιλογή ενδυμασίας από βιβλιοθήκη
     2. Σχεδιασμός νέας ενδυμασίας
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    3. Χρήση τυχαίας ενδυμασίας (έκπληξη)
+    4. Μεταφόρτωση ενδυμασίας από αρχείο
+    5. Νέα ενδυμασία από φωτογραφική μηχανή
     
-    ![choose location](images/choose_location.png)
+    ![επιλογή τοποθεσίας](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Εάν επιθυμείς να διαγράψεις την ενδυμασία που εισήγαγες, επίλεξέ την και κάνε κλικ στο μικρό σταυρό στην πάνω δεξιά γωνία.
     
-    ![delete costume](images/delete_costume.png)
+    ![διαγραφή ενδυμασίας](images/delete_costume.png)
