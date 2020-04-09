@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- مع تحديد الكائن الخاص بك، انقر على علامة التبويب المظاهر
     
-    ![costumes tab](images/costumes_tab.png)
+    ![علامة التبويب مظاهر](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- انقر فوق **اختيار مظهر** واختر أحد الخيارات الخمسة والتي هي من الأسفل إلى الأعلى:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. اختر مظهر من المكتبة
+    2. رسم مظهر جديد
+    3. استخدام مظهر عشوائي (مفاجأة)
+    4. تحميل المظهر من الملف
+    5. زي جديد من الكاميرا
     
-    ![choose location](images/choose_location.png)
+    ![اختر موقع](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- إذا كنت ترغب في حذف المظهر المستورد، قم باختياره وانقر على علامة التقاطع الصغيرة في الزاوية اليمنى العلوية.
     
-    ![delete costume](images/delete_costume.png)
+    ![حذف المظهر](images/delete_costume.png)
