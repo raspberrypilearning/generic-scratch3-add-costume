@@ -1,11 +1,11 @@
-- With your sprite selected, click on the Costumes tab
+- Έχοντας επιλεγμένο το αντικείμενό σου, κάνε κλικ στην καρτέλα Ενδυμασίες
     
-    ![costumes tab](images/costumes_tab.png)
+    ![καρτέλα ενδυμασίες](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Κάνε κλικ στο ** Επιλέξτε Ενδυμασία** και επίλεξε μια από τις πέντε επιλογές Από κάτω προς τα πάνω είναι:
     
-    1. Choose costume from library
-    2. Paint new costume
+    1. Επιλογή ενδυμασίας από βιβλιοθήκη
+    2. Σχεδιασμός νέας ενδυμασίας
     3. Use a random (surprise) costume
     4. Upload costume from file
     5. New costume from camera
