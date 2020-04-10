@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Com seu ator selecionado, clique na aba Fantasias
     
-    ![costumes tab](images/costumes_tab.png)
+    ![aba fantasias](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Clique em **Escolher Fantasia** e escolha uma das cinco opções de baixo para cima:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Escolher fantasia da biblioteca
+    2. Pintar nova fantasia
+    3. Usar uma fantasia aleatória (surpresa)
+    4. Carregar fantasia do arquivo
+    5. Nova fantasia da câmera
     
-    ![choose location](images/choose_location.png)
+    ![escolher localização](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Se você deseja excluir a fantasia importada, selecione-a e clique na pequena cruz no canto superior direito.
     
-    ![delete costume](images/delete_costume.png)
+    ![excluir fantasia](images/delete_costume.png)
