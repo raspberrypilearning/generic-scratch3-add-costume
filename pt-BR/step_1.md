@@ -12,6 +12,6 @@
     
     ![escolher localização](images/choose_location.png)
 
-- Se você deseja excluir a fantasia importada, selecione-a e clique na pequena cruz no canto superior direito.
+- Se você deseja excluir a fantasia importada, selecione-a e clique na pequena lixeira no canto superior direito.
     
     ![excluir fantasia](images/delete_costume.png)
