@@ -1,0 +1,17 @@
+---
+title: Scratch में नए कॉस्ट्यूम जोड़ना
+hero_image: images/banner.png
+description: अपने स्प्राइट के लिए कॉस्ट्यूम जोड़ना
+original_url:
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+curriculum:
+interests:
+technologies: "scratch"
+site_areas:
+steps:
+  - title: कॉस्ट्यूम जोड़ें
+
