@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Выбрав спрайт, перейди на вкладку Костюмы
     
-    ![costumes tab](images/costumes_tab.png)
+    ![вкладка костюмы](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Нажми **Выберите костюм** и выбери один из пяти вариантов. Снизу вверх они:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Выбери костюм из библиотеки
+    2. Раскрась новый костюм
+    3. Используй случайный (неожиданный) костюм
+    4. Загрузить костюм из файла
+    5. Новый костюм из камеры
     
-    ![choose location](images/choose_location.png)
+    ![выбери место](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Если ты хочешь удалить скачанный костюм, выбери его и нажми на маленький крестик в правом верхнем углу.
     
-    ![delete costume](images/delete_costume.png)
+    ![удалить костюм](images/delete_costume.png)
