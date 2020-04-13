@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- Вибравши спрайт, натисни на вкладку Образи
     
-    ![costumes tab](images/costumes_tab.png)
+    ![вкладка Образи](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options From bottom to top they are:
+- Клацни **Обрати образ** і вибери одну з п’яти можливостей. Знизу догори вони такі:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. Обрати образ з бібліотеки
+    2. Малювати новий образ
+    3. Використовувати випадковий образ (сюрприз)
+    4. Вивантажити образ із файлу
+    5. Новий образ із камери
     
-    ![choose location](images/choose_location.png)
+    ![вибрати місце](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- Якщо ти бажаєш видалити імпортований образ, виділи його та клацни на маленький хрестик в правому верхньому куті.
     
-    ![delete costume](images/delete_costume.png)
+    ![видалити образ](images/delete_costume.png)
