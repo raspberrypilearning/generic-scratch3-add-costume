@@ -2,7 +2,7 @@
     
     ![uiterlijken tabblad](images/costumes_tab.png)
 
-- Klik op **Kies een uiterlijk** en kies een van de vijf opties. Van onder naar boven zijn deze:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Kies een uiterlijk uit de bibliotheek
     2. Tekenen
