@@ -2,7 +2,7 @@
     
     ![ඇඳුම් පටිත්ත(costume tab)](images/costumes_tab.png)
 
-- ** ඇඳුමක් තෝරන්න(Choose a Costume) ** ක්ලික් කර තේරීම් පහෙන් එකක් තෝරන්න, පහළ සිට ඉහළට ඒවා පහත දක්වා අත :
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. පුස්තකාලයෙන් ඇඳුම්(costume) තෝරන්න
     2. නව ඇඳුමක්(costume) පින්තාරු කරන්න
