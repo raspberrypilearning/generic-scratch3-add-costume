@@ -2,7 +2,7 @@
     
     ![Registerkarte Kostüme](images/costumes_tab.png)
 
-- Klicke auf **Wähle ein Kostüm** und wähle eine der fünf Optionen. Von unten nach oben sind das:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Wähle ein Kostüm aus der Bibliothek
     2. Male ein neues Kostüm
