@@ -2,7 +2,7 @@
     
     ![علامة التبويب مظاهر](images/costumes_tab.png)
 
-- انقر فوق **اختيار مظهر** واختر أحد الخيارات الخمسة والتي هي من الأسفل إلى الأعلى:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. اختر مظهر من المكتبة
     2. رسم مظهر جديد
