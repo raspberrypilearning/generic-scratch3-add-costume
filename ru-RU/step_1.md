@@ -2,7 +2,7 @@
     
     ![вкладка костюмы](images/costumes_tab.png)
 
-- Нажми **Выберите костюм** и выбери один из пяти вариантов. Снизу вверх они:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Выбери костюм из библиотеки
     2. Раскрась новый костюм
