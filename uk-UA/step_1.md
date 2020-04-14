@@ -2,7 +2,7 @@
     
     ![вкладка Образи](images/costumes_tab.png)
 
-- Клацни **Обрати образ** і вибери одну з п’яти можливостей. Знизу догори вони такі:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Обрати образ з бібліотеки
     2. Малювати новий образ
