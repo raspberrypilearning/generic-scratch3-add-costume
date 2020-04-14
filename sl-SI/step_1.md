@@ -2,7 +2,7 @@
     
     ![zavihek Videzi](images/costumes_tab.png)
 
-- Klikni na **Izberi videz** in izberi katero izmed petih možnosti. Od spodaj navzgor si sledijo kot:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Izberi videz iz knjižnice
     2. Nariši nov videz
