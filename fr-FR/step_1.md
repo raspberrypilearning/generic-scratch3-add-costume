@@ -2,7 +2,7 @@
     
     ![onglet costumes](images/costumes_tab.png)
 
-- Clique sur **Choisir un costume** et choisis l'une des cinq options de bas en haut :
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Choisir un costume à partir de la bibliothèque
     2. Peindre un nouveau costume
