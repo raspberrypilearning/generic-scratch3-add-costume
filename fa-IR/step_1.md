@@ -2,7 +2,7 @@
     
     ![زبانه حالت‌ها](images/costumes_tab.png)
 
-- بر روی **یک حالت را انتخاب کنید** کلیک کنید و یکی از پنج گزینه را انتخاب نمایید. گزینه‌ها از پایین به بالا عبارتند از:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. از کتابخانه حالت را انتخاب کنید
     2. حالت جدید نقاشی کنید
