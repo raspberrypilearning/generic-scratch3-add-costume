@@ -2,7 +2,7 @@
     
     ![aba dos trajes](images/costumes_tab.png)
 
-- Clica em **Escolher um traje** e escolhe uma das cinco opções De baixo para cima, elas são:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Escolher um traje da biblioteca
     2. Pintar novo traje
