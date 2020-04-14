@@ -2,7 +2,7 @@
     
     ![pestaña de disfraces](images/costumes_tab.png)
 
-- Haz clic en **Elige un disfraz** y elige una de las cinco opciones que de abajo a arriba son:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Elige un disfraz de la biblioteca
     2. Pinta un disfraz nuevo
