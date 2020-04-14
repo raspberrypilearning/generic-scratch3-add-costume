@@ -2,7 +2,7 @@
     
     ![aba fantasias](images/costumes_tab.png)
 
-- Clique em **Escolher Fantasia** e escolha uma das cinco opções de baixo para cima:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Escolher fantasia da biblioteca
     2. Pintar nova fantasia
