@@ -2,7 +2,7 @@
     
     ![scheda costumi](images/costumes_tab.png)
 
-- Clicca su **Scegli un Costume** e scegli una delle cinque opzioni dal basso verso l'alto che sono:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Scegli un costume dalla libreria
     2. Disegna un nuovo costume
