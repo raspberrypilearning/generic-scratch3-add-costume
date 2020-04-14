@@ -2,7 +2,7 @@
     
     ![zakładka kostiumy](images/costumes_tab.png)
 
-- Kliknij **Wybierz kostium** i wybierz jedną z pięciu opcji. Idąc od dołu do góry są to odpowiednio:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Wybierz kostium z biblioteki
     2. Namaluj nowy kostium
