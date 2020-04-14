@@ -2,7 +2,7 @@
     
     ![costumes tab](images/costumes_tab.png)
 
-- **Choose a Costume (परिधान चुनें)** पर क्लिक करें और पाँच विकल्पों में से कोई एक चुनें। ये ऊपर से नीचे तक इस प्रकार हैं
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. लाइब्रेरी से कॉस्ट्यूम चुनें
     2. नया कॉस्ट्यूम पेंट करें
