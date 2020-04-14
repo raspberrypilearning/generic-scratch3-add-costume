@@ -2,7 +2,7 @@
     
     ![コスチュームタブ](images/costumes_tab.png)
 
-- **コスチュームを選ぶ** (えらぶ) をクリックし、5つのオプションのいずれかを選択します。下から上にこのようにならんでいます。
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. コスチュームを選ぶ - コスチュームをライブラリから選択
     2. 描く(かく) - 新しいコスチュームを描く
