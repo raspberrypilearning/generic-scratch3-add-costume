@@ -2,7 +2,7 @@
     
     ![costumes tab](images/costumes_tab.png)
 
-- क्लिक करा **एक वेशभूषा निवडा** आणि ते खालून वरच्या दिशेला चार पर्यायांपैकी एक निवडा:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. लायब्ररीतून वेशभूषा निवडा
     2. नवीन पोशाख रंगवा
