@@ -2,7 +2,7 @@
     
     ![모양 탭](images/costumes_tab.png)
 
-- **모양 고르기**를 클릭하고 다음 5개의 옵션 중에서 선택하세요(아래부터 위로 정렬):
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. 라이브러리에서 모양 고르기
     2. 새로운 모양 그리기
