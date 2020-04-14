@@ -2,7 +2,7 @@
     
     ![καρτέλα ενδυμασίες](images/costumes_tab.png)
 
-- Κάνε κλικ στο ** Επιλέξτε Ενδυμασία** και επίλεξε μια από τις πέντε επιλογές Από κάτω προς τα πάνω είναι:
+- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
     
     1. Επιλογή ενδυμασίας από βιβλιοθήκη
     2. Σχεδιασμός νέας ενδυμασίας
