@@ -2,7 +2,7 @@
     
     ![tab-ul costume](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
+- Dă click pe **Chose a Costume** și alege unul dintre cele cinci opțiuni. De jos în sus ele sunt:
     
     1. Alege un costum din librărie
     2. Desenează un costum nou
