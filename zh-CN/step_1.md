@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- 选中精灵后，点击 "造型" 选项卡
     
-    ![costumes tab](images/costumes_tab.png)
+    ![造型 选项卡](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
+- 点击 **选择一个造型** 然后从 5 个选项中挑选一个 从下到上是:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. 从图库中选择一个造型
+    2. 绘制一个新造型
+    3. 使用随机 (惊喜) 造型
+    4. 上传造型
+    5. 用相机拍摄新图像作为造型
     
-    ![choose location](images/choose_location.png)
+    ![选择位置](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- 如果你想删除上传的造型，选中它然后点击右上角的删除小图标就可以了
     
-    ![delete costume](images/delete_costume.png)
+    ![删除造型](images/delete_costume.png)
