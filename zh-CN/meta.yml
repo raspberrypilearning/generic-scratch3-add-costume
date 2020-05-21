@@ -1,9 +1,9 @@
 ---
-title: Adding new costumes in Scratch
+title: 在 Scratch 中添加新造型
 hero_image: images/banner.png
-description: Add costumes to your sprite
+description: 给你的精灵添加新造型
 original_url:
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: 红色 #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -14,5 +14,5 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Add costumes
+    title: 添加造型
 
