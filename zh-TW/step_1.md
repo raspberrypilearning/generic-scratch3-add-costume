@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- 選擇精靈後，單按“造型”選項卡
     
-    ![costumes tab](images/costumes_tab.png)
+    ![造型 選項卡](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
+- 單按 **選擇造型** 然後從五個選項中挑選一個 從下到上分別是：
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. 從圖庫中選擇造型
+    2. 繪製新造型
+    3. 使用隨機 (驚喜) 造型
+    4. 上傳造型檔案
+    5. 相機拍攝新圖檔
     
-    ![choose location](images/choose_location.png)
+    ![選擇位置](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- 如要刪除上傳的造型，請在選擇後，單按右上角的小十字。
     
-    ![delete costume](images/delete_costume.png)
+    ![删除造型](images/delete_costume.png)
