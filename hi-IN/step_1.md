@@ -1,17 +1,17 @@
 - अपने स्प्राइट का चयन करके, Costumes टैब पर क्लिक करें
     
-    ![costumes tab](images/costumes_tab.png)
+    ![पोशाक टैब](images/costumes_tab.png)
 
-- Click **Choose a Costume** and choose one of the five options. From bottom to top they are:
+- **Choose a Costume** पर क्लिक करें और पाँच विकल्पों में से कोई एक चुनें। वे नीचे से ऊपर इस प्रकार हैं:
     
-    1. पुस्तकालय से पोशाक चुनें
+    1. लाइब्रेरी से पोशाक चुनें
     2. नई पोशाक पेंट करें
     3. एक यादृच्छिक (आश्चर्य) पोशाक का उपयोग करें
     4. फ़ाइल से पोशाक अपलोड करें
     5. कैमरे से नई पोशाक
     
-    ![choose location](images/choose_location.png)
+    ![स्थान चुनें](images/choose_location.png)
 
-- यदि आप आयातित पोशाक को हटाना चाहते हैं, तो इसे चुनें और ऊपरी दाहिने हाथ के कोने में छोटे क्रॉस पर क्लिक करें।
+- यदि आप आयातित पोशाक को हटाना चाहते हैं, तो उसे चुनें और ऊपरी दाएं कोने में छोटे क्रॉस पर क्लिक करें।
     
-    ![delete costume](images/delete_costume.png)
+    ![पोशाक हटाएं](images/delete_costume.png)
